@@ -1,2 +1,3 @@
 # Plan-De-Mejoramiento
-se sube el plana de mejoramiento tal cual como el instructor lo pide 
+Se sube el Plan de Mejoramiento tal cual como el Instructor lo Pide 
+
